@@ -81,7 +81,7 @@ Access app at:
 http://<EC2_PUBLIC_IP>:5000
 
 📂 Project Structure
-.
+. 
 ├── src/                 # Source code
 ├── entity/              # Configs & artifacts
 ├── components/          # Pipeline components
