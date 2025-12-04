@@ -4,7 +4,7 @@ FROM python:3.12-slim
 
 
 # Set the working directory
-WORKDIR /app
+WORKDIR /app 
 
 # Copy your application code
 COPY . /app
